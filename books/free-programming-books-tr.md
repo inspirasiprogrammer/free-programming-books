@@ -3,7 +3,7 @@
 * [Algoritma ve Veri Yapıları](#algoritma-ve-veri-yapilari)
 * [Android](#android)
 * [C](#c)
-* [C++](#c-1)
+* [C++](#cpp)
 * [CSS](#css)
 * [D](#d)
 * [Dart](#dart)
@@ -44,11 +44,10 @@
 ### C
 
 * [Beej'in Ağ Programlama Kılavuzu - Internet Soketlerini Kullanarak](http://www.belgeler.org/bgnet/bgnet.html) - B. Hall, Çeviren Emre "FZ" Sevinç (HTML)
-* [C Programlama Diline Giriş](https://www.gantep.edu.tr/~bingul/c/index.php) - Ahmet Bingül
 * [GNU C Kütüphanesi Basvuru Klavuzu](http://www.belgeler.org/glibc/glibc.html)
 
 
-### C++
+<h3 id="cpp">C++</h3>
 
 * [C++ Dersleri](https://www.yusufsezer.com.tr/cpp-dersleri/) - Yusuf Sezer
 
@@ -92,7 +91,7 @@
 
 ### iOS
 
-* [iOS Geleceği Yazanlar](https://www.gelecegiyazanlar.turkcell.com.tr/konu/ios)
+* [iOS Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/ios)
 
 
 ### Java
